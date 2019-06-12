@@ -1,0 +1,9 @@
+{
+  "username": "",
+  "password": "",
+  "rootDomain" : "domain.de",
+  "isWwwRecord": false,
+  "ttl": 300,
+  "authKey": "key",
+  "allowedDomains": ["subdomain.domain.de"]
+}
