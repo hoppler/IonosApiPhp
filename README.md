@@ -1,3 +1,6 @@
+# Breaking: 1und1 Login-Page has changed
+Login is not possible anymore with the current code
+
 # IonosApiPhp
 Provide DynDns-Service for Ionos/1und1 DNS with PHP
 
